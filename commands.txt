@@ -1,0 +1,5 @@
+make    
+./mdriver
+./mdriver -h        
+./mdriver -f traces/amptjp-bal.rep
+./mdriver -v                      
